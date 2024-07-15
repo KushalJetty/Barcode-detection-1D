@@ -52,6 +52,7 @@ $ git clone https://github.com/AleksandraPestka/Barcode-detection-1D.git
 Use the package manager <b>pip</b> to install requirements (virtualenv recommended)
 ```bash
 $ pip install -r requirements.txt
+$ pip install --upgrade setuptools
 ```
 Move to script folder
 ```bash
